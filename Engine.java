@@ -1,5 +1,3 @@
-package a1_2101140008;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
