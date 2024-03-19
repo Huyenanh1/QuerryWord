@@ -1,5 +1,3 @@
-package a1_2101140008;
-
 public class Match implements Comparable<Match>{
     public Doc d;
     public Word w;
